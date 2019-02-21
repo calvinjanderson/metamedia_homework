@@ -1,6 +1,7 @@
 # homework
 
 ## WEEK3
+
 ### Idea No.19: The Emoticon </h3>
 
 A flame war is the result of misinterpreted joke responses on early forum posts.The emoticon was introduced to message boards to indicate to readers when posts were serious or not.
