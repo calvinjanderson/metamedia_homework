@@ -15,18 +15,6 @@ Generative Adversarial Networks are neural networks that are able to learn  to r
 ### 4. [WebAuthn](https://webauthn.org/)
 WebAuthn is an application programming interface which uses cryptographic methods that do not require passwords or other similar forms of authentication. The WebAuthn API creates sets of private and public keys for each credential that is registered. This protects information that can only be decrypted once the proper keys are validated. Biometrics or USB security keys would replace conventional passwords.
 
-- [WebAuthn demo](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API)
-- [Google WebAuthn demo](https://webauthndemo.appspot.com/)
+[WebAuthn demo](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API)
 
-### 5
-=======
-TensorFlow is a library of open-source machine learning software. It was built by Google, initially for internal research and production of applications, then released to the public in 2015. TensorFlow uses deep learning neural networks to compute data-flow graphs for a variety of tasks. Google also developed an application-specific integrated circuit (ASIC)for TensorFlow, the Tensor Processing Unit (TPU). An example of an app built with TensorFlow is Google's DeepDream.
-
-### 3. [Generative Adversarial Networks]()
-
-
-### 4. [WebAuthn](https://webauthn.org/)
-
-
-### 5.
->>>>>>> 3d1f67a4b00dbd75af77fecc47ebdc86f00a80dd
+[Google WebAuthn demo](https://webauthndemo.appspot.com/)
